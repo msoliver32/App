@@ -1,0 +1,5 @@
+C:\Users\ZAZA\AndroidstudioProjects\CampeonatoVirtualFutebol\app\build\intermediates\classes\debug
+C:\Users\ZAZA\AndroidstudioProjects\CampeonatoVirtualFutebol\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d34d0450e3adb3da2e303ffb9fce7a753b3c3d61.jar
+C:\Users\ZAZA\AndroidstudioProjects\CampeonatoVirtualFutebol\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b694c9625b197a7ec7527fb30254824aec2842b1.jar
+C:\Users\ZAZA\AndroidstudioProjects\CampeonatoVirtualFutebol\app\build\intermediates\pre-dexed\debug\classes-57a9a8eeeeed7173fc981ed294945d9b24f87459.jar
+C:\Users\ZAZA\AndroidstudioProjects\CampeonatoVirtualFutebol\app\build\intermediates\pre-dexed\debug\classes-574ebde97c70bbd0f1cf6fc055a2a83ab51028f6.jar
